@@ -4,7 +4,7 @@ echo "********************"
 echo "** Pushing image ***"
 echo "********************"
 
-IMAGE="maven"
+IMAGE="maven-project"
 
 echo "** Logging in ***"
 docker login -u cybersectower -p $PASS
