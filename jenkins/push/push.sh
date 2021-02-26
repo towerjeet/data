@@ -3,7 +3,7 @@
 echo "********************"
 echo "** Pushing image ***"
 echo "********************"
-
+echo "***************************"
 IMAGE="maven-project"
 
 echo "** Logging in ***"
