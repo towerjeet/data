@@ -3,7 +3,7 @@ FROM jenkins/jenkins
 USER root
 
 
-
+#info
 # Install Docker
 
 RUN apt-get update && \
